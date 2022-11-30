@@ -4,4 +4,4 @@ This repository contains the work done on the ITU-ML5G-PS-012: Radio Link Failur
 
  - Radio Link Failure Prediction Challenge.ipynb: the code programmed in Python
  
- - RLF Challenge - 0212.pdf: a presentation that presents the context, the results and potential future directions.
+ - RLF Challenge - 0212.pdf: a presentation of the context, the results and potential future directions.
