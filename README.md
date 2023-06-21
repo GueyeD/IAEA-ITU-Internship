@@ -1,4 +1,4 @@
-# IAEA-IUT-Internship
+# IAEA-ITU-Internship
 
 This repository contains the work done on the ITU-ML5G-PS-012: Radio Link Failure Prediction Challenge. It includes:
 
